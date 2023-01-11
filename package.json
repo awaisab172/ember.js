@@ -55,7 +55,7 @@
     "babel-plugin-debug-macros": "^0.3.3",
     "babel-plugin-filter-imports": "^3.0.0",
     "broccoli-concat": "^3.7.4",
-    "broccoli-funnel": "^2.0.2",
+    "broccoli-funnel": "^3.0.0",
     "broccoli-merge-trees": "^3.0.2",
     "chalk": "^2.4.2",
     "ember-cli-babel": "^7.11.0",
